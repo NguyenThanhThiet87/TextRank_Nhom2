@@ -28,6 +28,9 @@ Xây dựng hệ thống **tóm tắt văn bản tự động** bằng thuật t
 * `textSummarizationSpacy.py`
   ➝ Cài đặt TextRank sử dụng **SpaCy (POS tagging, preprocessing nâng cao)**
 
+* `Nhóm Hai Có Nhiều Like.pdf`
+  ➝ Slides thuyết trình **Thuật toán TextRank cho tóm tắt văn bản**
+
 ---
 
 ## ⚙️ Hướng dẫn sử dụng
